@@ -1,4 +1,4 @@
-#!/use/bin/env python3
+#!/usr/bin/env python3
 """
 This module write an asynchronous coroutine for the function
 task_wait_random
